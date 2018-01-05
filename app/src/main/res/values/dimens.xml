@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="camera_btn_margin">15dp</dimen>
+</resources>
